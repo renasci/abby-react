@@ -1,0 +1,16 @@
+.menu-conteiner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-btn {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  margin: 5px;
+}
+
+.menu-icon {
+  height:30px;
+  width: 100px;
+  overflow: hidden;
+}

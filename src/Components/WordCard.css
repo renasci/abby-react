@@ -1,0 +1,17 @@
+.word {
+    font-weight: bold;
+}
+
+.translation {
+    font-style: italic;
+    text-overflow: ellipsis;
+}
+.container {
+    padding: 15px 11px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.extra {
+    align-self: center;
+}
